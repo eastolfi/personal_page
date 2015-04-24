@@ -6,7 +6,7 @@
   "author": "Eduardo Astolfi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/linnovate/mean.git"
+    "url": "https://github.com/eastolfi/personal_page.git"
   },
   "engines": {
     "node": "0.10.x",

@@ -46,7 +46,7 @@ angular.module('mean.system').controller('HeaderController',
         $scope.menuExternal = [
         {
             'title': 'MENU_QUIENIELA_PAGE',
-            'link': 'http://localhost:3001'
+            'link': 'https://monedero-quinielas.herokuapp.com'
         }];
 
         $scope.menuUser = [

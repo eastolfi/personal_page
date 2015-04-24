@@ -1,0 +1,1 @@
+mongodump --db monedero-db -o D:/Proyectos/Web/NodeJS/personal_web/db/mongodump-24-04-2015

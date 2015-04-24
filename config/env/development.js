@@ -1,7 +1,6 @@
 'use strict';
 
 module.exports = {
-    /*db: "mongodb://admin:admin@kahana.mongohq.com:10074/monedero-db",*/
 	db: "mongodb://localhost:27017/monedero-db",
     app: {
         name: "Personal Web Page - Built with MeanIO - Development"

@@ -41,8 +41,25 @@ angular.module('mean.system').controller('HeaderController',
         $scope.menu = [{
             'title': 'MENU_INDEX',
             'link': 'index'
-		}];
+        },
+        {
+            'title': 'MENU_PAGES',
+            'link': '#page_section_pages'
+        },
+        {
+            'title': 'MENU_APPS',
+            'link': '#page_section_apps'
+        },
+        {
+            'title': 'MENU_ABOUT',
+            'link': '#page_section_about'
+        },
+        {
+            'title': 'MENU_CONTACT',
+            'link': '#page_section_contact'
+        }];
 
+        // Remove from here
         $scope.menuExternal = [
         {
             'title': 'MENU_QUIENIELA_PAGE',
